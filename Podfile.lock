@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.2.2)
+  - PKHUD (5.3.0)
+  - SDWebImage (5.9.3):
+    - SDWebImage/Core (= 5.9.3)
+  - SDWebImage/Core (5.9.3)
+  - SwiftFCXRefresh (0.1.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - PKHUD (~> 5.0)
+  - SDWebImage (~> 5.0)
+  - SwiftFCXRefresh
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PKHUD
+    - SDWebImage
+    - SwiftFCXRefresh
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  SDWebImage: a31ee8e90a97303529e03fb0c333eae0eacb88e9
+  SwiftFCXRefresh: 1a3961d667a1715068c8e8cb8bf2c45097045214
+
+PODFILE CHECKSUM: 9e06838b8ddf1688fe2d806536f01d845cc519ee
+
+COCOAPODS: 1.9.3
